@@ -5,7 +5,7 @@ from datetime import datetime
 today = datetime.today()
 todays_date = today.strftime("%Y%m%d")
 
-def lambda_handlaer(event, context):
+def lambda_handler(event, context):
 
     # search for boto3 aws s3 in google. find client. this help connect to the s3 bucket
     # connect to the s3 bucket created
