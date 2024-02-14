@@ -1,4 +1,4 @@
-## Lambda and Python Project
+## Lambda Function and Python Project
 
 This project focuses on utilizing a Python Lambda script to organize files in an Amazon S3 bucket based on the date they were uploaded. Below are the steps involved in setting up and executing the project:
 
